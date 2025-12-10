@@ -1,0 +1,42 @@
+# Dossiers volumineux
+config/
+data/
+logs/
+downloads/
+datasets/
+frames/
+videos/
+images/
+outputs/
+results/
+models/
+mario_level_dataset/
+runs/
+
+# Fichiers lourds
+*.mp4
+*.avi
+*.mkv
+*.zip
+*.rar
+*.h5
+*.pt
+*.pth
+*.npy
+*.npz
+
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

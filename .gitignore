@@ -12,6 +12,10 @@ results/
 models/
 mario_level_dataset/
 runs/
+classified_levels/
+classified_levels_old/
+annotations/
+augmented_dataset/
 
 # Fichiers lourds
 *.mp4

@@ -1,0 +1,38 @@
+names:
+- 0- big_mario
+- 1- brick_block
+- 2- coin
+- 3- empty_block
+- 4- fire_mario
+- 5- fireball
+- 6- flower
+- 7- goal_pole
+- 8- goomba
+- 9- hard_block
+- 10- koopa
+- 11- little_mario
+- 12- mushroom
+- 13- mystery_block
+- 14- pipe
+- 15- pipe_head
+- 16- shell
+- 17- undestructible_block
+- 18- flag
+- 19- hammer
+- 20- fish_flying
+- 21- piranha
+- 22- turtle
+- 23- lakitu
+- 24- magic_bean
+- 25- spike
+nc: 26
+path: dataset_mario
+roboflow:
+  license: CC BY 4.0
+  project: mario-dataset
+  url: https://universe.roboflow.com/ethan-ortega-zqedq/mario-dataset/dataset/6
+  version: 6
+  workspace: ethan-ortega-zqedq
+test: dataset_mario\test/images
+train: dataset_mario\train/images
+val: dataset_mario\valid/images

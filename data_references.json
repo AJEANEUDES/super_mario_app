@@ -1,0 +1,111 @@
+{
+  "version": "1.0",
+  "data_yaml": "C:/Users/Yao ADJANOHOUN/Documents/Projet/supermario/performance_data/super_mario_desktop/data.yaml",
+  "timestamp": "2026-04-16T22:45:54.565984",
+  "references": {
+    "0": {
+      "name": "big_mario",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/big_mario.jpg"
+    },
+    "1": {
+      "name": "brick_block",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/brick block.jpg"
+    },
+    "2": {
+      "name": "coin",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/piece.png"
+    },
+    "3": {
+      "name": "empty_block",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/empty block.png"
+    },
+    "4": {
+      "name": "fire_mario",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/fire mario.jpg"
+    },
+    "5": {
+      "name": "fireball",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/fire ball.png"
+    },
+    "6": {
+      "name": "flower",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/flower.png"
+    },
+    "7": {
+      "name": "goal_pole",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/goal pole.png"
+    },
+    "8": {
+      "name": "goomba",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/gomba.jpg"
+    },
+    "9": {
+      "name": "hard_block",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/hard block.png"
+    },
+    "10": {
+      "name": "koopa",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/koopa.jpg"
+    },
+    "11": {
+      "name": "little_mario",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/little mario.jpg"
+    },
+    "12": {
+      "name": "mushroom",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/mushroom.png"
+    },
+    "13": {
+      "name": "mystery_block",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/mystery block.png"
+    },
+    "14": {
+      "name": "pipe",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/pipe.png"
+    },
+    "15": {
+      "name": "pipe_head",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/pipe head.png"
+    },
+    "16": {
+      "name": "shell",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/shell.jpg"
+    },
+    "17": {
+      "name": "undestructible_block",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/undestructible_block.jpg"
+    },
+    "18": {
+      "name": "flag",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/flag.jpg"
+    },
+    "19": {
+      "name": "hammer",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/hammer.jpg"
+    },
+    "20": {
+      "name": "fish_flying",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/fish flying.jpg"
+    },
+    "21": {
+      "name": "piranha",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/piranha.jpg"
+    },
+    "22": {
+      "name": "turtle",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/turtle.jpg"
+    },
+    "23": {
+      "name": "lakitu",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/lakitu.png"
+    },
+    "24": {
+      "name": "magic_bean",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/magic bean.jpg"
+    },
+    "25": {
+      "name": "spike",
+      "image": "C:/Users/Yao ADJANOHOUN/Pictures/smb/spike.jpg"
+    }
+  }
+}

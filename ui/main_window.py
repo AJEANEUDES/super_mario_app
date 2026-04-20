@@ -220,6 +220,38 @@ class MainWindow(QMainWindow):
         self.yolo_training_widget = YOLOTrainingWidget()
         tabs.addTab(self.yolo_training_widget, "🤖 YOLO Training")
         
+        # Tab 14: Classification par Niveau (Widget séparé)
+        from ui.level_splitter_widget import LevelSplitterWidget
+        self.level_splitter_widget = LevelSplitterWidget()
+        tabs.addTab(self.level_splitter_widget, "📊 Classification")
+        
+        # Tab 15: Révision Images Unknown (Widget séparé)
+        from ui.unknown_reviewer_widget import UnknownReviewerWidget
+        self.unknown_reviewer_widget = UnknownReviewerWidget()
+        tabs.addTab(self.unknown_reviewer_widget, "🔍 Révision Unknown")
+        
+        # Tab 16: Analyse des Frames (Widget séparé)
+        from ui.frame_analyzer_widget import FrameAnalyzerWidget
+        self.frame_analyzer_widget = FrameAnalyzerWidget()
+        tabs.addTab(self.frame_analyzer_widget, "📊 Analyse Frames")
+        
+        # Tab 17: Annotateur de Dataset YOLO (Widget séparé)
+        from ui.dataset_annotator_widget import DatasetAnnotatorWidget
+        self.dataset_annotator_widget = DatasetAnnotatorWidget()
+        tabs.addTab(self.dataset_annotator_widget, "🎮 Annotateur YOLO")
+        
+
+        # Ligne ~19 - Nouvel import
+        from ui.dataset_augmentation_widget import DatasetAugmentationWidget
+        # Tab 18: Augmentation de Dataset (Widget séparé)
+        self.dataset_augmentation_widget = DatasetAugmentationWidget()
+        tabs.addTab(self.dataset_augmentation_widget, "🔄 Augmentation")
+
+        # Tab 18: Prédiction YOLO par lot (Widget séparé)
+        from ui.batch_predict_widget import BatchPredictWidget
+        self.batch_predict_widget = BatchPredictWidget()
+        tabs.addTab(self.batch_predict_widget, "🤖 Prédiction")
+        
         return panel
     
     def _create_scraper_config_tab(self):

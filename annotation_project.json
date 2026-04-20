@@ -1,0 +1,364 @@
+{
+  "version": "1.0",
+  "timestamp": "2025-12-11T14:32:11.027066",
+  "config": {
+    "frames_dir": "C:/Users/Yao ADJANOHOUN/Documents/Projet/supermario/performance_data/super_mario_desktop/classified_levels/level_1-1",
+    "output_dir": "C:/Users/Yao ADJANOHOUN/Documents/Projet/supermario/performance_data/super_mario_desktop/classified_levels\\annotations",
+    "references_dir": "C:/Users/Yao ADJANOHOUN/Documents/Projet/supermario/performance_data/super_mario_desktop/classified_levels\\annotations\\references"
+  },
+  "classes": [
+    {
+      "id": 0,
+      "name": "big_mario",
+      "shortcut": "1",
+      "reference_image": "C:/Users/Yao ADJANOHOUN/Documents/Projet/supermario/performance_data/super_mario_desktop/classified_levels\\annotations\\references\\class_0_big_mario.jpg",
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "count": 0
+    },
+    {
+      "id": 1,
+      "name": "brick_block",
+      "shortcut": "2",
+      "reference_image": "",
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "coin",
+      "shortcut": "3",
+      "reference_image": "",
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "empty_block",
+      "shortcut": "4",
+      "reference_image": "",
+      "color": [
+        255,
+        255,
+        0
+      ],
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "fire_mario",
+      "shortcut": "5",
+      "reference_image": "",
+      "color": [
+        255,
+        0,
+        255
+      ],
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "fireball",
+      "shortcut": "6",
+      "reference_image": "",
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "flower",
+      "shortcut": "7",
+      "reference_image": "",
+      "color": [
+        128,
+        0,
+        0
+      ],
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "goal_pole",
+      "shortcut": "8",
+      "reference_image": "",
+      "color": [
+        0,
+        128,
+        0
+      ],
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "goomba",
+      "shortcut": "9",
+      "reference_image": "",
+      "color": [
+        0,
+        0,
+        128
+      ],
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "hard_block",
+      "shortcut": "0",
+      "reference_image": "",
+      "color": [
+        128,
+        128,
+        0
+      ],
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "koopa",
+      "shortcut": "q",
+      "reference_image": "",
+      "color": [
+        128,
+        0,
+        128
+      ],
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "little_mario",
+      "shortcut": "w",
+      "reference_image": "",
+      "color": [
+        0,
+        128,
+        128
+      ],
+      "count": 2
+    },
+    {
+      "id": 12,
+      "name": "mushroom",
+      "shortcut": "e",
+      "reference_image": "",
+      "color": [
+        255,
+        128,
+        0
+      ],
+      "count": 0
+    },
+    {
+      "id": 13,
+      "name": "mystery_block",
+      "shortcut": "r",
+      "reference_image": "",
+      "color": [
+        255,
+        0,
+        128
+      ],
+      "count": 0
+    },
+    {
+      "id": 14,
+      "name": "pipe",
+      "shortcut": "t",
+      "reference_image": "",
+      "color": [
+        128,
+        255,
+        0
+      ],
+      "count": 0
+    },
+    {
+      "id": 15,
+      "name": "pipe_head",
+      "shortcut": "y",
+      "reference_image": "",
+      "color": [
+        0,
+        255,
+        128
+      ],
+      "count": 0
+    },
+    {
+      "id": 16,
+      "name": "shell",
+      "shortcut": "u",
+      "reference_image": "",
+      "color": [
+        128,
+        0,
+        255
+      ],
+      "count": 0
+    },
+    {
+      "id": 17,
+      "name": "undestructible_block",
+      "shortcut": "i",
+      "reference_image": "",
+      "color": [
+        0,
+        128,
+        255
+      ],
+      "count": 2
+    },
+    {
+      "id": 18,
+      "name": "flag",
+      "shortcut": "o",
+      "reference_image": "",
+      "color": [
+        255,
+        128,
+        128
+      ],
+      "count": 0
+    },
+    {
+      "id": 19,
+      "name": "hammer",
+      "shortcut": "p",
+      "reference_image": "",
+      "color": [
+        128,
+        255,
+        128
+      ],
+      "count": 0
+    },
+    {
+      "id": 20,
+      "name": "fish_flying",
+      "shortcut": "a",
+      "reference_image": "",
+      "color": [
+        128,
+        128,
+        255
+      ],
+      "count": 0
+    },
+    {
+      "id": 21,
+      "name": "piranha",
+      "shortcut": "s",
+      "reference_image": "",
+      "color": [
+        255,
+        255,
+        128
+      ],
+      "count": 0
+    },
+    {
+      "id": 22,
+      "name": "turtle",
+      "shortcut": "d",
+      "reference_image": "",
+      "color": [
+        255,
+        128,
+        255
+      ],
+      "count": 0
+    },
+    {
+      "id": 23,
+      "name": "lakitu",
+      "shortcut": "f",
+      "reference_image": "",
+      "color": [
+        128,
+        255,
+        255
+      ],
+      "count": 0
+    },
+    {
+      "id": 24,
+      "name": "magic_bean",
+      "shortcut": "g",
+      "reference_image": "",
+      "color": [
+        192,
+        192,
+        192
+      ],
+      "count": 0
+    },
+    {
+      "id": 25,
+      "name": "spike",
+      "shortcut": "h",
+      "reference_image": "",
+      "color": [
+        64,
+        64,
+        64
+      ],
+      "count": 0
+    }
+  ],
+  "current_index": 243,
+  "annotations": [
+    {
+      "image_path": "C:/Users/Yao ADJANOHOUN/Documents/Projet/supermario/performance_data/super_mario_desktop/classified_levels/level_1-1\\frame_000409.jpg",
+      "boxes": [
+        {
+          "class_id": 11,
+          "x": 237,
+          "y": 813,
+          "width": 102,
+          "height": 102
+        },
+        {
+          "class_id": 17,
+          "x": 10,
+          "y": 915,
+          "width": 1498,
+          "height": 95
+        }
+      ]
+    },
+    {
+      "image_path": "C:/Users/Yao ADJANOHOUN/Documents/Projet/supermario/performance_data/super_mario_desktop/classified_levels/level_1-1\\frame_000410.jpg",
+      "boxes": [
+        {
+          "class_id": 11,
+          "x": 237,
+          "y": 831,
+          "width": 98,
+          "height": 92
+        },
+        {
+          "class_id": 17,
+          "x": 7,
+          "y": 919,
+          "width": 1499,
+          "height": 102
+        }
+      ]
+    }
+  ]
+}
